@@ -1,0 +1,7 @@
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\bin\Debug\Coreservice.Client.dll
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\bin\Debug\Coreservice.Client.pdb
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\obj\Debug\Coreservice.Client.csprojResolveAssemblyReference.cache
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\obj\Debug\Coreservice.Client.dll
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\obj\Debug\Coreservice.Client.pdb
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\bin\Debug\Tridion.Common.dll
+D:\Dream\RESTFulMicroserviceOverCoreService\Coreservice.Client\bin\Debug\Tridion.ContentManager.CoreService.Client.dll

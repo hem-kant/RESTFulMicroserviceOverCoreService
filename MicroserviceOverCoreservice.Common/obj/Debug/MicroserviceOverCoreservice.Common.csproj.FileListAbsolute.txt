@@ -1,0 +1,4 @@
+D:\Dream\RESTFulMicroserviceOverCoreService\MicroserviceOverCoreservice.Common\bin\Debug\MicroserviceOverCoreservice.Common.dll
+D:\Dream\RESTFulMicroserviceOverCoreService\MicroserviceOverCoreservice.Common\bin\Debug\MicroserviceOverCoreservice.Common.pdb
+D:\Dream\RESTFulMicroserviceOverCoreService\MicroserviceOverCoreservice.Common\obj\Debug\MicroserviceOverCoreservice.Common.dll
+D:\Dream\RESTFulMicroserviceOverCoreService\MicroserviceOverCoreservice.Common\obj\Debug\MicroserviceOverCoreservice.Common.pdb
